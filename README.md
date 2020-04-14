@@ -14,8 +14,8 @@ ddev config --docroot=htdocs --project-type=typo3
 ddev restart
 ```
 
-**vailable versions:** 8.5.x, 9.5.x, 10.3.x
+**Available versions:** 8.5.x, 9.5.x, 10.3.x
 
 
-### Ideas/sources:
+### Idea/sources:
 * https://github.com/GsTYPO3/ddev-typo3-src
